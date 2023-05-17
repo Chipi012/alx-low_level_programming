@@ -4,6 +4,7 @@
  * main - Prints the name
  * @argc: argument counter
  * @argv: argument vector
+ *
  * Return: 0
  */
 
